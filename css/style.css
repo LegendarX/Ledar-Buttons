@@ -1,0 +1,102 @@
+* {
+  background-color: rgb(119, 135, 226);
+}
+.btn {
+  width: 50%;
+}
+div {
+  margin: 5%;
+}
+
+/*My Design Button Settings*/
+
+.btnn {
+  width: 50%;
+  padding: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+}
+
+.btnn:hover {
+  background-position: right center; /* change the direction of the change here */
+}
+
+/*Button Design*/
+
+.btnn-1 {
+  background-image: linear-gradient(
+    to right,
+    #007bff 0%,
+    #65d9f6 51%,
+    #007bff 100%
+  );
+}
+
+.btnn-2 {
+  background-image: linear-gradient(
+    to right,
+    #6c757d 0%,
+    #aab7c2 51%,
+    #6c757d 100%
+  );
+}
+
+.btnn-3 {
+  background-image: linear-gradient(
+    to right,
+    #218838 0%,
+    #6cff78 51%,
+    #218838 100%
+  );
+}
+
+.btnn-4 {
+  background-image: linear-gradient(
+    to right,
+    #dc3545 0%,
+    #f3808c 51%,
+    #dc3545 100%
+  );
+}
+
+.btnn-5 {
+  background-image: linear-gradient(
+    to right,
+    #ffc107 0%,
+    #ffde7c 51%,
+    #ffc107 100%
+  );
+}
+
+.btnn-6 {
+  background-image: linear-gradient(
+    to right,
+    #17a2b8 0%,
+    #75edff 51%,
+    #17a2b8 100%
+  );
+}
+
+.btnn-7 {
+  background-image: linear-gradient(
+    to right,
+    #f8f9fa 0%,
+    #f8f9fa8a 51%,
+    #f8f9fa 100%
+  );
+}
+
+.btnn-8 {
+  background-image: linear-gradient(
+    to right,
+    #343a40 0%,
+    #747f8a 51%,
+    #343a40 100%
+  );
+}
